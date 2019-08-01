@@ -4,3 +4,4 @@ This was part of the hackathon organized by Analytics Vidhya.  Scored 0.858 in p
 
 Competition Link: https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/
 
+Training set can be downloaded from above link
